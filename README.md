@@ -34,7 +34,7 @@
 
 ---
 
-<img align="right" src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+
 
 
 
