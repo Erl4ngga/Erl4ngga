@@ -38,26 +38,7 @@
 
 
 
-### 📫 How to reach me :<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" alt="go" width="50" height="50"/>
-<a href="https://twitter.com/AdityaBhate4">
-  <img align="left" alt="Aditya Bhate | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> 
 
-<a href="https://www.linkedin.com/in/aditya-bhate-43505918b/">
-  <img align="left"  alt="Aditya Bhate | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://adityakbhate123.medium.com/">
-  <img align="left" alt="Aditya Bhate | Publications" width="39px" src="https://img.shields.io/badge/-ffffff?style=flat-square&labelColor=000000&logo=Medium" />
-</a>
-
-<a href="https://github.com/Aditya-Bhate">
-  <img align="left" alt="Aditya Bhate | Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_bhate_/)&nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.bhate.3/)  &nbsp;<a href="mailto:adityakbhate123@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-
----
 	
 #### *Really looking forward to connect with more and more people . Kindly connect with me on my social handles 😉. Would be more than happy to help !* 
 	
