@@ -24,8 +24,8 @@
   <br/>
   <summary><b>💻 PC Specs and IDEs I use </b></summary>
   	<ul>
-      <li><b>OS:</b> Windows 10 Home  </li>
-	    <li><b>Laptop: </b> HP Pavilion 15-9300H CPU, GTX 1050</li>
+      <li><b>OS:</b> Windows 11 Home  </li>
+	    <li><b>Laptop: </b> Lenovo Ideapad Ryzen 3 4300</li>
   	  <li><b>Browser: </b> Google Chrome/Microsoft Edge </li>
 	    <li><b>Code Editor:</b>  VSCode , Codeblocks , Jupyter Notebook  
    </li>
