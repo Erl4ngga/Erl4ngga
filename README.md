@@ -27,7 +27,7 @@
       <li><b>OS:</b> Windows 11 Home  </li>
 	    <li><b>Laptop: </b> Lenovo Ideapad Ryzen 3 4300</li>
   	  <li><b>Browser: </b> Google Chrome/Microsoft Edge </li>
-	    <li><b>Code Editor:</b>  VSCode , Codeblocks , Jupyter Notebook  
+	    <li><b>Code Editor:</b>  VSCode 
    </li>
 	</ul>	
 </details>
