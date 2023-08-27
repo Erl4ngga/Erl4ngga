@@ -11,10 +11,9 @@
 ![Erlangga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erl4ngga&show_icons=true&theme=radical)
 
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/Erl4ngga/github-stats-transparent/output/generated/languages.svg)
 
 
 
-<p><a href="https://www.twitter.com/itgoyo"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=itgoyo&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 
