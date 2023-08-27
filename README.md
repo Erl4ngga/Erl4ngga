@@ -9,9 +9,7 @@
 
 
 ![Erlangga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erl4ngga&show_icons=true&theme=radical)
-
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Erl4ngga/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erl4ngga&layout=pie)](https://github.com/Erl4ngga/github-readme-stats)
 
 
 
